@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  #navbar{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    border: 2px solid;
+    align-items: center;
+    justify-content: space-evenly;
+    background: rgb(133, 196, 133);
+
+  }
